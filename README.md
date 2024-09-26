@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga Ediz</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
-<h3 align="center">🌱 I’m currently learning **React**</h3>
+<h3 align="center">🌱 I’m currently learning **React.js**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
